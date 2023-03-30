@@ -9,5 +9,5 @@ The course consists of 6 problem sets. Each folder contains the problem set desc
 - Problem Set 1 — Annuity Calculator: basic functions, for loops, while loops, conditionals, bisection search.
 - Problem Set 2 — Hangman Game: manipulating strings, lists, tuples and dictionaries, loops, conditionals.
 - Problem Set 3 — Word Game: functions, dictionaries, advanced loops and conditionals.
-- Problem Set 4 — Caesar Cipher: OOP, classes, inheritance, attributes, methods, recursion, unit testing.
+- Problem Set 4 — Caesar and Substitution Ciphers: OOP, classes, inheritance, attributes, methods, recursion, encryption, decryption, unit testing.
 - Problem Set 5 — RSS Feed Reader: web scraping, regular expressions, classes, subclasses, inheritance, obeject polymorphism.
